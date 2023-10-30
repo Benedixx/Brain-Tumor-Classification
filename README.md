@@ -33,12 +33,13 @@ You can find the detailed architecture and code in the Jupyter Notebook or Pytho
 
 ## Training Result
 ### training and validation acccuracy graph
-![image](https://github.com/Benedixx/Brain-Tumor-Classification/assets/97221880/4575d336-9112-495a-9da5-e39269c991e0)
+![image](https://github.com/Benedixx/Brain-Tumor-Classification/assets/97221880/e4b658b1-8bcb-481e-ab62-e1189638554d)
+
 
 ### training and validation acccuracy on last epoch
 ```bash
-Epoch 25/25
-20/20 [==============================] - 1s 60ms/step - loss: 0.6170 - accuracy: 0.7677 - val_loss: 0.8855 - val_accuracy: 0.7083 - lr: 3.1250e-05
+Epoch 21/25
+20/20 [==============================] - 2s 101ms/step - loss: 0.5212 - accuracy: 0.7688 - val_loss: 0.5506 - val_accuracy: 0.7917 - lr: 1.2500e-04
 ```
 ## Improvement
 
