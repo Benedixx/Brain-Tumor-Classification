@@ -6,7 +6,7 @@ This project aims to classify different types of brain tumors using deep learnin
 
 ## Dataset
 
-The dataset used for this project can be found [here]([https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data]). It consists of brain MRI images with labeled tumor types. Ensure that you have downloaded and preprocessed the dataset as required before running the code or you can use the dataset that i provided on this repository.
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data). It consists of brain MRI images with labeled tumor types. Ensure that you have downloaded and preprocessed the dataset as required before running the code or you can use the dataset that i provided on this repository.
 
 Dataset contains :<br>
 number of glioma training data: 702 <br>
