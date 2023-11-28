@@ -33,19 +33,13 @@ You can find the detailed architecture and code in the Jupyter Notebook or Pytho
 
 ## Training Result
 ### training and validation acccuracy graph
-![image](https://github.com/Benedixx/Brain-Tumor-Classification/assets/97221880/e4b658b1-8bcb-481e-ab62-e1189638554d)
+![image](https://github.com/Benedixx/Brain-Tumor-Classification-tensorflow/assets/97221880/8d4be853-37a6-4ded-af6f-de1557620553)
 
+### training and validation loss graph
+![image](https://github.com/Benedixx/Brain-Tumor-Classification-tensorflow/assets/97221880/85623827-4d56-41fd-9b58-9eb88f9dbdae)
 
 ### training and validation acccuracy on last epoch
 ```bash
-Epoch 21/25
-20/20 [==============================] - 2s 101ms/step - loss: 0.5212 - accuracy: 0.7688 - val_loss: 0.5506 - val_accuracy: 0.7917 - lr: 1.2500e-04
+Epoch 25/25
+194/194 [==============================] - 31s 158ms/step - loss: 0.0020 - accuracy: 0.9990 - val_loss: 1.3206e-04 - val_accuracy: 1.0000
 ```
-## Improvement
-
-### Add predict input data
-
-The model can be used but there is no input predict after the model training, you can contribute to add the input predict.
-
-### Need to improve the accuracy
-The model accuracy can be improved, but since i have another deadline :3 and it takes a long time i have to temporarily stop. UwU
